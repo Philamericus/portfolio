@@ -22,6 +22,8 @@ This page contains links to examples of documentation that I created or worked o
 
 ## IBM Trusteer
 
+Most of what I wrote at Trusteer is not online (for security reasons), but here are some of the products that I worked on.
+
 1. [IBM Trusteer Rapport](https://www.ibm.com/docs/en/trusteer-rapport)
 2. [IBM Trusteer Pinpoint](https://www.ibm.com/docs/en/trusteer-pinpoint)
 3. [IBM Trusteer Mobile SDK](https://www.ibm.com/docs/en/trusteer-mobile-sdk)
