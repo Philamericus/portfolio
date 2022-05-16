@@ -37,4 +37,7 @@ Most of what I wrote at Trusteer is not online (for security reasons), but here 
 
 1. Worked on the [Apodis line of OTN processors](http://www.tera-pass.com/index.php?dir=site&page=content&cs=5026&langpage=eng)
 
+## Blog
 
+For a few years, I kept a knowledge dump of issues that I came across in MS Word, Flare, and other TW issues.
+See the blog [here](https://phlogtastic.home.blog/).
