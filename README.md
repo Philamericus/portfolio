@@ -18,7 +18,7 @@ This page contains links to examples of documentation that I created or worked o
    - [CASP Express Deploy](https://github.com/unboundsecurity/casp-express-deploy)
    - [Unbound Sample Code](https://github.com/unboundsecurity/unbound-sample-code)
    - [Unbound Integration](https://github.com/unboundsecurity/unbound-integration)
-    
+6. Edited the blog for [Application Level Encryption](https://www.unboundsecurity.com/blog/application-level-encryption/).
 
 ## IBM Trusteer
 
