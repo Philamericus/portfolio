@@ -31,7 +31,7 @@ Most of what I wrote at Trusteer is not online (for security reasons), but here 
 
 ## Broadlight
 
-1. TBD
+1. Wrote and maintained documents dealing with GPON (Gigabit Passive Optical Network) processors.
 
 ## IP Light
 
