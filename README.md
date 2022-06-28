@@ -1,6 +1,6 @@
 This page contains links to examples of documentation that I created or worked on.
 
-## Unbound Security
+## Coinbase (formerly Unbound Security)
 
 1. Managed the [Unbound Documentation Library](https://www.unboundsecurity.com/docs/TechDocs/Unbound_Doc_Versions-HTML/Content/Products/UnboundDocLibrary/Technical_Document_Versions.htm)
 2. Created content for the CASP product:
@@ -26,10 +26,6 @@ This page contains links to examples of documentation that I created or worked o
 2. [IBM Trusteer Pinpoint](https://www.ibm.com/docs/en/trusteer-pinpoint)
 3. [IBM Trusteer Mobile SDK](https://www.ibm.com/docs/en/trusteer-mobile-sdk)
 
-
-## Broadlight
-
-- Documents dealing with GPON (Gigabit Passive Optical Network) processors
 
 ## IP Light
 
