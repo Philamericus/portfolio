@@ -18,11 +18,9 @@ This page contains links to examples of documentation that I created or worked o
    - [CASP Express Deploy](https://github.com/unboundsecurity/casp-express-deploy)
    - [Unbound Sample Code](https://github.com/unboundsecurity/unbound-sample-code)
    - [Unbound Integration](https://github.com/unboundsecurity/unbound-integration)
-6. Edited the blog for [Application Level Encryption](https://www.unboundsecurity.com/blog/application-level-encryption/).
+6. Edited the blog for [Application Level Encryption](https://www.unboundsecurity.com/blog/application-level-encryption/)
 
 ## IBM Trusteer
-
-Most of what I wrote at Trusteer is not online (for security reasons), but here are some of the products that I worked on.
 
 1. [IBM Trusteer Rapport](https://www.ibm.com/docs/en/trusteer-rapport)
 2. [IBM Trusteer Pinpoint](https://www.ibm.com/docs/en/trusteer-pinpoint)
@@ -31,13 +29,13 @@ Most of what I wrote at Trusteer is not online (for security reasons), but here 
 
 ## Broadlight
 
-- Wrote and maintained documents dealing with GPON (Gigabit Passive Optical Network) processors.
+- Documents dealing with GPON (Gigabit Passive Optical Network) processors
 
 ## IP Light
 
-- Worked on the [Apodis line of OTN processors](http://www.tera-pass.com/index.php?dir=site&page=content&cs=5026&langpage=eng)
+- Documents for the [Apodis line of OTN processors](http://www.tera-pass.com/index.php?dir=site&page=content&cs=5026&langpage=eng)
 
 ## Blog
 
 For around 10 years, I kept a knowledge dump of issues that I came across in MS Word and MadCap Flare, and other technical writing issues.
-   - See the blog [here](https://phlogtastic.home.blog/).
+   - See the blog [here](https://phlogtastic.home.blog/)
