@@ -31,11 +31,11 @@ Most of what I wrote at Trusteer is not online (for security reasons), but here 
 
 ## Broadlight
 
-1. Wrote and maintained documents dealing with GPON (Gigabit Passive Optical Network) processors.
+- Wrote and maintained documents dealing with GPON (Gigabit Passive Optical Network) processors.
 
 ## IP Light
 
-1. Worked on the [Apodis line of OTN processors](http://www.tera-pass.com/index.php?dir=site&page=content&cs=5026&langpage=eng)
+- Worked on the [Apodis line of OTN processors](http://www.tera-pass.com/index.php?dir=site&page=content&cs=5026&langpage=eng)
 
 ## Blog
 
