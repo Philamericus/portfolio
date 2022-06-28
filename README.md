@@ -39,5 +39,5 @@ Most of what I wrote at Trusteer is not online (for security reasons), but here 
 
 ## Blog
 
-For around 10 years I kept a knowledge dump of issues that I came across in MS Word, Flare, and other TW issues.
+For around 10 years, I kept a knowledge dump of issues that I came across in MS Word and MadCap Flare, and other technical writing issues.
    - See the blog [here](https://phlogtastic.home.blog/).
