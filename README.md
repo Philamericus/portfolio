@@ -7,13 +7,20 @@ This page contains links to examples of documentation that I created or worked o
 1. Managed the [Unbound Documentation Library](https://www.unboundsecurity.com/docs/TechDocs/Unbound_Doc_Versions-HTML/Content/Products/UnboundDocLibrary/Technical_Document_Versions.htm)
 2. Created content for the CASP product:
     - CASP User Guide ([PDF](https://philamericus.github.io/portfolio/doc/Unbound%20CORE%20CASP%20User%20Guide%201.0.2106.pdf), [HTML](https://www.unboundsecurity.com/docs/CASP/CASP_User_Guide/Content/Products/Unbound_Cover_Page.htm))
-    - [CASP Developers Guide](https://www.unboundsecurity.com/docs/CASP/CASP_Developers_Guide/Content/Products/Unbound_Cover_Page.htm)
-    - CASP API Reference for the [Base API](https://www.unboundsecurity.com/docs/CASP/API/casp-base.html#unbound-crypto-asset-security-platform-casp-management-api), the [BYOW API](https://www.unboundsecurity.com/docs/CASP/API/casp-byow.html#unbound-crypto-asset-security-platform-casp-management-api), and the [Built-in Wallets](https://www.unboundsecurity.com/docs/CASP/API/casp-coin.html#unbound-crypto-asset-security-platform-casp-management-api)
-    - [CASP FAQ](https://www.unboundsecurity.com/docs/CASP/CASP_FAQ/Content/Products/Unbound_Cover_Page.htm)
-1. Created the [UKC REST API Reference](http://www.unboundsecurity.com/docs/ukc_rest/ukc.html)
-2. Created the [Unbound CORE Code Signing Service User Guide](https://www.unboundsecurity.com/docs/CORE/CORE-CSS/Content/Products/Unbound_Cover_Page.htm)
-3. Created the Unbound CORE Virtual Enclave for Desktops [Release Notes](https://www.unboundsecurity.com/docs/CORE-Enclave/CORE-Enclave-Release-Notes/Content/Products/Unbound_Cover_Page.htm), [User Guide](https://www.unboundsecurity.com/docs/CORE-Enclave/CORE-Enclave-User-Guide/Content/Products/Unbound_Cover_Page.htm), and [API Reference](https://www.unboundsecurity.com/docs/CORE-Enclave/CORE-Enclave-API/index.html)
-4. Created the Unbound CORE Virtual Enclave for Mobile (CoT) [Release Notes](https://www.unboundsecurity.com/docs/CoT/CoT_Release_Notes-HTML/Content/Products/Unbound_Cover_Page.htm) and [Admin Guide](https://www.unboundsecurity.com/docs/CoT/CoT_Admin_Guide/Content/Products/Unbound_Cover_Page.htm)
+    - CASP Developers Guide ([PDF](https://philamericus.github.io/portfolio/doc/Unbound%20CORE%20CASP%20Developers%20Guide%201.0.2106.pdf), [HTML](https://www.unboundsecurity.com/docs/CASP/CASP_Developers_Guide/Content/Products/Unbound_Cover_Page.htm))
+    - CASP API Reference for the Base API [HTML](https://www.unboundsecurity.com/docs/CASP/API/casp-base.html#unbound-crypto-asset-security-platform-casp-management-api), the BYOW API [HTML](https://www.unboundsecurity.com/docs/CASP/API/casp-byow.html#unbound-crypto-asset-security-platform-casp-management-api), and the Built-in Wallets [HTML](https://www.unboundsecurity.com/docs/CASP/API/casp-coin.html#unbound-crypto-asset-security-platform-casp-management-api)
+    - CASP FAQ ([PDF](https://philamericus.github.io/portfolio/doc/Unbound%20CORE%20CASP%20FAQ%201.4.pdf), [HTML](https://www.unboundsecurity.com/docs/CASP/CASP_FAQ/Content/Products/Unbound_Cover_Page.htm))
+1. Created the UKC REST API Reference [HTML](http://www.unboundsecurity.com/docs/ukc_rest/ukc.html)
+2. Created the Unbound CORE Code Signing Service User Guide [HTML](https://www.unboundsecurity.com/docs/CORE/CORE-CSS/Content/Products/Unbound_Cover_Page.htm)
+3. Created content for the Unbound CORE Virtual Enclave for Desktops:
+    - Unbound CORE Virtual Enclave for Desktops Release Notes ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CORE%20Virtual%20Enclave%20Release%20Notes%201.0.2105.41070.pdf), [HTML](https://www.unboundsecurity.com/docs/CORE-Enclave/CORE-Enclave-Release-Notes/Content/Products/Unbound_Cover_Page.htm))
+    - Unbound CORE Virtual Enclave for Desktops User Guide ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CORE%20Virtual%20Enclave%20User%20Guide%201.0.2105.41070.pdf), [HTML](https://www.unboundsecurity.com/docs/CORE-Enclave/CORE-Enclave-User-Guide/Content/Products/Unbound_Cover_Page.htm)
+	- API Reference [HTML](https://www.unboundsecurity.com/docs/CORE-Enclave/CORE-Enclave-API/index.html)
+4. Created content for the Unbound CORE Virtual Enclave for Mobile (CoT):
+    - Release Notes ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CoT%20Release%20Notes%201.9.2103.39335.pdf), [HTML](https://www.unboundsecurity.com/docs/CoT/CoT_Release_Notes-HTML/Content/Products/Unbound_Cover_Page.htm))
+    - Admin Guide ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CoT%20Admin%20Guide%201.6.1706.pdf), [HTML](https://www.unboundsecurity.com/docs/CoT/CoT_Admin_Guide/Content/Products/Unbound_Cover_Page.htm))
+	- Developers Guide for Android ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CoT%20Developers%20Guide%20for%20Android%201.4.2007.pdf)
+	- Developers Guide for iOS ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CoT%20Developers%20Guide%20for%20iOS%201.3.pdf)
 5. Maintained and created content for [Unbound's GitHub site](https://github.com/unboundsecurity)
    - [Open Source MPC project](https://github.com/unboundsecurity/blockchain-crypto-mpc)
    - [Unbound NextGen vHSM® Interactive Demo](https://github.com/unboundsecurity/Unbound-NextGen-vHSM-Interactive-Demo)
@@ -23,7 +30,7 @@ This page contains links to examples of documentation that I created or worked o
 6. Edited the blog for [Application Level Encryption](https://www.unboundsecurity.com/blog/application-level-encryption/)
 
 ## IBM Trusteer
-
+I created and released multiple versions of content for the following products. The links point to the latest online version.
 1. [IBM Trusteer Rapport](https://www.ibm.com/docs/en/trusteer-rapport)
 2. [IBM Trusteer Pinpoint](https://www.ibm.com/docs/en/trusteer-pinpoint)
 3. [IBM Trusteer Mobile SDK](https://www.ibm.com/docs/en/trusteer-mobile-sdk)
