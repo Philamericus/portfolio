@@ -13,14 +13,14 @@ This page contains links to examples of documentation that I created or worked o
 1. Created the UKC REST API Reference [HTML](http://www.unboundsecurity.com/docs/ukc_rest/ukc.html)
 2. Created the Unbound CORE Code Signing Service User Guide [HTML](https://www.unboundsecurity.com/docs/CORE/CORE-CSS/Content/Products/Unbound_Cover_Page.htm)
 3. Created content for the Unbound CORE Virtual Enclave for Desktops:
-    - Unbound CORE Virtual Enclave for Desktops Release Notes ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CORE%20Virtual%20Enclave%20Release%20Notes%201.0.2105.41070.pdf), [HTML](https://www.unboundsecurity.com/docs/CORE-Enclave/CORE-Enclave-Release-Notes/Content/Products/Unbound_Cover_Page.htm))
-    - Unbound CORE Virtual Enclave for Desktops User Guide ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CORE%20Virtual%20Enclave%20User%20Guide%201.0.2105.41070.pdf), [HTML](https://www.unboundsecurity.com/docs/CORE-Enclave/CORE-Enclave-User-Guide/Content/Products/Unbound_Cover_Page.htm)
+    - Release Notes ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CORE%20Virtual%20Enclave%20Release%20Notes%201.0.2105.41070.pdf), [HTML](https://www.unboundsecurity.com/docs/CORE-Enclave/CORE-Enclave-Release-Notes/Content/Products/Unbound_Cover_Page.htm))
+    - User Guide ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CORE%20Virtual%20Enclave%20User%20Guide%201.0.2105.41070.pdf), [HTML](https://www.unboundsecurity.com/docs/CORE-Enclave/CORE-Enclave-User-Guide/Content/Products/Unbound_Cover_Page.htm))
 	- API Reference [HTML](https://www.unboundsecurity.com/docs/CORE-Enclave/CORE-Enclave-API/index.html)
 4. Created content for the Unbound CORE Virtual Enclave for Mobile (CoT):
     - Release Notes ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CoT%20Release%20Notes%201.9.2103.39335.pdf), [HTML](https://www.unboundsecurity.com/docs/CoT/CoT_Release_Notes-HTML/Content/Products/Unbound_Cover_Page.htm))
     - Admin Guide ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CoT%20Admin%20Guide%201.6.1706.pdf), [HTML](https://www.unboundsecurity.com/docs/CoT/CoT_Admin_Guide/Content/Products/Unbound_Cover_Page.htm))
-	- Developers Guide for Android ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CoT%20Developers%20Guide%20for%20Android%201.4.2007.pdf)
-	- Developers Guide for iOS ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CoT%20Developers%20Guide%20for%20iOS%201.3.pdf)
+	- Developers Guide for Android ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CoT%20Developers%20Guide%20for%20Android%201.4.2007.pdf))
+	- Developers Guide for iOS ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CoT%20Developers%20Guide%20for%20iOS%201.3.pdf))
 5. Maintained and created content for [Unbound's GitHub site](https://github.com/unboundsecurity)
    - [Open Source MPC project](https://github.com/unboundsecurity/blockchain-crypto-mpc)
    - [Unbound NextGen vHSM® Interactive Demo](https://github.com/unboundsecurity/Unbound-NextGen-vHSM-Interactive-Demo)
