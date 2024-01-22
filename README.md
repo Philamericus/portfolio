@@ -6,7 +6,7 @@ This page contains links to examples of documentation that I created or worked o
 
 1. Managed the [Unbound Documentation Library](https://www.unboundsecurity.com/docs/TechDocs/Unbound_Doc_Versions-HTML/Content/Products/UnboundDocLibrary/Technical_Document_Versions.htm)
 2. Created content for the CASP product:
-    - [CASP User Guide](https://www.unboundsecurity.com/docs/CASP/CASP_User_Guide/Content/Products/Unbound_Cover_Page.htm)
+    - CASP User Guide ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CORE%20CASP%20User%20Guide%201.0.2106.pdf), [HTML](https://www.unboundsecurity.com/docs/CASP/CASP_User_Guide/Content/Products/Unbound_Cover_Page.htm))
     - [CASP Developers Guide](https://www.unboundsecurity.com/docs/CASP/CASP_Developers_Guide/Content/Products/Unbound_Cover_Page.htm)
     - CASP API Reference for the [Base API](https://www.unboundsecurity.com/docs/CASP/API/casp-base.html#unbound-crypto-asset-security-platform-casp-management-api), the [BYOW API](https://www.unboundsecurity.com/docs/CASP/API/casp-byow.html#unbound-crypto-asset-security-platform-casp-management-api), and the [Built-in Wallets](https://www.unboundsecurity.com/docs/CASP/API/casp-coin.html#unbound-crypto-asset-security-platform-casp-management-api)
     - [CASP FAQ](https://www.unboundsecurity.com/docs/CASP/CASP_FAQ/Content/Products/Unbound_Cover_Page.htm)
