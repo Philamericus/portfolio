@@ -1,0 +1,90 @@
+#blog-wrap {
+}
+#blog-wrap .blue-section {
+    padding-top: 145px;
+    padding-bottom: 100px;
+    padding-right: 70px;
+    padding-left: 65px;
+}
+#blog-wrap .prev {
+}
+#blog-wrap .next {
+}
+#blog-wrap {
+}
+
+.aff-pagination {
+    text-align: center;
+}
+.aff-pagination .prev {
+    margin-right: 40px;
+}
+.aff-pagination .next {
+    margin-left: 40px;
+}
+.aff-pagination img {
+    margin-top: -5px;
+}
+.aff-pagination .page-numbers:hover {
+    text-decoration: none;
+}
+.aff-pagination .page-numbers {
+    font-size: 24px;
+    font-weight: 700;
+    z-index: 2;
+    line-height: 1.7;
+    letter-spacing: 7px;
+    color: #252b3c;
+    /*width: 20px;*/
+    display: inline-block;
+    cursor: pointer;
+    margin: 0 3px;
+    position: relative;
+    padding-left: 0.4em;
+}
+.aff-pagination .page-numbers.current {
+    position: relative;
+    color: #fff9f0 !important;
+    margin: 0 13px;
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -ms-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+    background: #124473;
+}
+.xaff-pagination .page-numbers.current:before {
+    content: '';
+    width: 35px;
+    height: 40px;
+    position: absolute;
+    top: -3px;
+    left: -11px;
+    background: #124473;
+    z-index: -1;
+}
+.aff-pagination .page-numbers.dots {
+    font-size: 0.8rem;
+}
+
+
+/*
+     FILE ARCHIVED ON 04:47:44 Oct 30, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:49:59 Jul 03, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 101.193
+  exclusion.robots: 0.078
+  exclusion.robots.policy: 0.065
+  RedisCDXSource: 8.532
+  esindex: 0.012
+  LoadShardBlock: 73.502 (3)
+  PetaboxLoader3.datanode: 112.062 (4)
+  load_resource: 203.031
+  PetaboxLoader3.resolve: 90.575
+*/

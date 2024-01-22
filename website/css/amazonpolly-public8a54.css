@@ -1,0 +1,84 @@
+#amazon-polly-audio-table {
+	display:table;
+	width:100%;
+	border: 0 !important;
+}
+#amazon-polly-audio-table tbody {
+	border: 0 !important;
+}
+#amazon-polly-audio-table tr {
+	border: 0 !important;
+}
+#amazon-polly-logo-tab {
+width: 60px;
+display:table-cell;
+vertical-align: top;
+padding-bottom: 50px;
+}
+#amazon-polly-logo {
+height: 50px;
+width: 50px;
+}
+#amazon-polly-audio-tab {
+width: auto;
+display:table-cell;
+border: 0;
+}
+#amazon-ai-player-label {
+font-size: 80%;
+font-family: "Arial", Helvetica, sans-serif;
+}
+#amazon-polly-by-tab {
+font-size: .6em;
+text-align: right;
+}
+#amazon-polly-subscribe-tab {
+text-align: right;
+}
+#amazon-polly-trans-src {
+	font-weight: bold;
+}
+.amazon-polly-trans-label  {
+	display:inline;
+	font-size: .6em;
+}
+.amazon-polly-trans-label a {
+    text-decoration: none;
+}
+.amazon-ai-player {
+width: 100%;
+}
+.amazon-polly-transcript-area {
+    height: 6em;
+    width: 100%;
+}
+.amazon-ai-flag {
+  display: inline-block;
+  width: 35px;
+  height: 15px;
+  margin: 0px 0px 0px 0px;
+}
+.amazon-ai-flag-image {
+	max-height: 100%;
+}
+
+/*
+     FILE ARCHIVED ON 20:05:26 Oct 21, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:49:43 Jul 03, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 340.426
+  exclusion.robots: 0.063
+  exclusion.robots.policy: 0.055
+  RedisCDXSource: 0.64
+  esindex: 0.01
+  LoadShardBlock: 320.457 (3)
+  PetaboxLoader3.datanode: 180.307 (4)
+  load_resource: 128.718
+  PetaboxLoader3.resolve: 83.991
+*/
