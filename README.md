@@ -15,7 +15,7 @@ This page contains links to examples of documentation that I created or worked o
 3. Created content for the Unbound CORE Virtual Enclave for Desktops:
     - Release Notes ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CORE%20Virtual%20Enclave%20Release%20Notes%201.0.2105.41070.pdf))
     - User Guide ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CORE%20Virtual%20Enclave%20User%20Guide%201.0.2105.41070.pdf))
-	- API Reference [HTML](https://www.unboundsecurity.com/docs/CORE-Enclave/CORE-Enclave-API/index.html)
+	- API Reference ([HTML](https://www.unboundsecurity.com/docs/CORE-Enclave/CORE-Enclave-API/index.html))
 4. Created content for the Unbound CORE Virtual Enclave for Mobile (CoT):
     - Release Notes ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CoT%20Release%20Notes%201.9.2103.39335.pdf))
     - Admin Guide ([PDF](https://github.com/Philamericus/portfolio/blob/main/doc/Unbound%20CoT%20Admin%20Guide%201.6.1706.pdf))
