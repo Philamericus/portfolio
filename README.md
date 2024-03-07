@@ -2,7 +2,7 @@ This page contains links to examples of documentation that I created or worked o
 
 ## Coinbase (formerly Unbound Security)
 
-**Note:** One of Coinbase's cost-cutting measures was to not renew the Unbound Security domain name. Consequently, years of documentation are no longer accesible.
+**Note:** One of Coinbase's cost-cutting measures was to not renew one of the Unbound Security servers. Consequently, some links may not work.
 
 1. Managed the [Unbound Documentation Library](https://doc.unboundsecurity.com/TechDocs/Unbound_Doc_Versions-HTML/Content/Products/UnboundDocLibrary/Technical_Document_Versions.htm)
 2. Created content for the CASP product:
