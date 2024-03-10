@@ -4,7 +4,7 @@ This page contains links to examples of documentation that I created or worked o
 
 **Note:** One of Coinbase's cost-cutting measures was to not renew one of the Unbound Security servers. Consequently, some links may not work.
 
-1. Managed the [Unbound Documentation Library](https://doc.unboundsecurity.com/TechDocs/Unbound_Doc_Versions-HTML/Content/Products/UnboundDocLibrary/Technical_Document_Versions.htm)
+1. Created and managed the [Unbound Documentation Library](https://doc.unboundsecurity.com/TechDocs/Unbound_Doc_Versions-HTML/Content/Products/UnboundDocLibrary/Technical_Document_Versions.htm)
 2. Created content for the CASP product:
     - CASP User Guide ([HTML](https://doc.unboundsecurity.com/CASP/CASP_User_Guide/Content/Products/Unbound_Cover_Page.htm), [PDF](https://philamericus.github.io/portfolio/doc/Unbound%20CORE%20CASP%20User%20Guide%201.0.2106.pdf))
     - CASP Developers Guide ([HTML](https://doc.unboundsecurity.com/CASP/CASP_Developers_Guide/Content/Products/Unbound_Cover_Page.htm), [PDF](https://philamericus.github.io/portfolio/doc/Unbound%20CORE%20CASP%20Developers%20Guide%201.0.2106.pdf))
