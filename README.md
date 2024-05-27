@@ -45,11 +45,11 @@ I created and released multiple versions of content for the following products. 
 
 ## Blog
 
-For around 10 years, I kept a knowledge dump of issues that I came across in MS Word and MadCap Flare, and other technical writing issues.
+I keep a knowledge dump of issues that I come across in technology, MS Word and MadCap Flare, and other technical writing issues.
    - See the blog [here](https://phlogtastic.home.blog/)
 
 ## Engineering Work
-I started my career as an Electrical Engineer working on ASICs. 
+I started my career as an Electrical Engineer working on ASICs. Here is some brief information about those companies.
 
 - Freescale Semiconductor
     - Verification for the [i.MX35](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-mature-processors/multimedia-applications-processors-audio-connectivity-automotive-applications:i.MX351), a Multimedia Applications Processor for audio connectivity and automotive applications. Arm11™ core running at 532 MHz with 90 nm technology. 
