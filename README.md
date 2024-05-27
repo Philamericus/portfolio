@@ -47,3 +47,15 @@ I created and released multiple versions of content for the following products. 
 
 For around 10 years, I kept a knowledge dump of issues that I came across in MS Word and MadCap Flare, and other technical writing issues.
    - See the blog [here](https://phlogtastic.home.blog/)
+
+## Engineering Work
+I started my career as an Electrical Engineer working on ASICs. 
+
+- Freescale Semiconductor
+    - Verification for the [i.MX35](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-mature-processors/multimedia-applications-processors-audio-connectivity-automotive-applications:i.MX351), a Multimedia Applications Processor for audio connectivity and automotive applications. Arm11™ core running at 532 MHz with 90 nm technology. 
+- TeraChip
+  - Verification for their 2nd gen switch fabric. 1st gen, targetting OC192 (10 Gbps) and OC48 (2.5 Gbps) applications, is described [here](https://www.eetimes.com/startup-pushes-shared-memory-switch-fabric-ic/) and [here](https://www.lightreading.com/network-technology/terachip-unveils-switch-fabrics).
+- TMX Silicon
+  - Worked on a next gen SOC processor architecture.
+- Ericsson
+  - Verification of 2.5 generations of network processors for the IP9000 edge routing platform that combined a cell-based switch fabric with an advanced ASIC design. See [here](https://washingtontechnology.com/1997/11/torrent-networking-technologies-prepares-for-internet-traffic-deluge/325552/) and [here](https://www.hpcwire.com/1998/05/22/torrent-notes-results-tolly-group-tests-ip9000-router/).
